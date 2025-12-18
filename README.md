@@ -1,0 +1,1 @@
+Due to issues with VSCode suddendly throwing out 403 errors when trying to update Claude Code, I downloaded the extension from https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code and posted it in hopes it will assist folks having the same problem.
